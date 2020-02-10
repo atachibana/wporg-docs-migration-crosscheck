@@ -1,4 +1,4 @@
-# WordPress.org Docs Migration Cross-Check helper
+# WordPress.org Docs migration cross-check helper
 
 This mini-project aims to help automate status cross-checks for the WordPress.org Codex to DevHub migration efforts.
 
