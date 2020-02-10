@@ -1,0 +1,22 @@
+{
+  "name": "wporg-docs-migration-crosscheck",
+  "version": "1.0.0",
+  "description": "",
+  "main": "",
+  "scripts": {},
+  "keywords": [],
+  "author": "Valentin Bora (https://github.com/valentinbora/)",
+  "license": "GPL-3.0-or-later",
+  "dependencies": {
+    "ansicolor": "^1.1.93",
+    "cheerio": "^1.0.0-rc.3",
+    "csv-parse": "^4.8.5",
+    "fs-extra": "^8.1.0",
+    "google-spreadsheet": "^3.0.5",
+    "lodash": "^4.17.15",
+    "ololog": "^1.1.151",
+    "request": "^2.88.0",
+    "request-promise": "^4.2.5",
+    "throat": "^5.0.0"
+  }
+}

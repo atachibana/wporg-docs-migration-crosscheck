@@ -1,3 +1,8 @@
+# Data and others
+data/*
+credentials/*
+config.js
+
 # Logs
 logs
 *.log

@@ -1,0 +1,4 @@
+module.exports = {
+    sheetId: '15hpEbbnuWJZ0DJafyCeG3CFRMtSxX1gY-RObrrjzzdw',
+    authFile: __dirname + '/credentials/credentials.json'
+}
